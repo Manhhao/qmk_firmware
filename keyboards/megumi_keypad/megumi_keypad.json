@@ -1,0 +1,10 @@
+{
+    "name": "megumi_keypad",
+    "vendorId": "0x0727",
+    "productId": "0x727F",
+    "lighting": "none",
+    "matrix": {"rows": 1, "cols": 3},
+    "layouts": {
+    "keymap": [["0,0", "0,1", "0,2"]]
+    }
+}
